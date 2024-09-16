@@ -1,7 +1,7 @@
 ### Bem-vindo as meu _perfil_ 👋💙
 
 Meu nome é C-
-- Estou estudando na Alura
+- Estou estudando na  [Alura](http://www.alura.com.br)
 - Ultilizo esse espaço para fins de compartilhar meus projetos.
 - Frequento a rede de estudo do estado do Paraná.
 
