@@ -1,16 +1,10 @@
-## Hi there 👋
+### Bem-vindo as meu _perfil_ 👋💙
 
-<!--
-**piscoegabisco/piscoegabisco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é C-
+- Estou estudando na Alura
+- Ultilizo esse espaço para fins de compartilhar meus projetos.
+- Frequento a rede de estudo do estado do Paraná.
 
-Here are some ideas to get you started:
+  ### Para você entrar em contato comigo 📬
 
-- 🔭 I’m currently working on eu
-- 🌱 I’m currently learning pc...
-- 👯 I’m looking to collaborate on maria rota...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about sou maringaense...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: eu sou fun...
--->
+  campos.cecilia@escola.pr.gov.br
